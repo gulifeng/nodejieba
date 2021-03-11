@@ -4,7 +4,8 @@
   "version": "2.5.1",
   "author": "Yanyi Wu <i@yanyiwu.com>",
   "maintainers": [
-    "Yanyi Wu <i@yanyiwu.com>"
+    "Yanyi Wu <i@yanyiwu.com>",
+    "179554574@qq.com"
   ],
   "main": "./index.js",
   "typings": "types/index.d.ts",
